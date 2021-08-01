@@ -1,4 +1,5 @@
 **/android/key.properties
+dev_assets
 
 # Miscellaneous
 *.class
